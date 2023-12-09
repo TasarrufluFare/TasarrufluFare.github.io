@@ -30,3 +30,5 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+Note: This is edited by Tasarruflu Fare so this is not the original version.
