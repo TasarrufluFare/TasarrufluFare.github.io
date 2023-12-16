@@ -1,0 +1,13 @@
+.image-container-examples {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.image-container-examples img {
+    width: 300px;
+    height: auto;
+    margin-bottom: 20px;
+}
